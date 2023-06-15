@@ -1,0 +1,15 @@
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.csproj.AssemblyReference.cache
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.AssemblyInfoInputs.cache
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.AssemblyInfo.cs
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Ferreira\Desktop\PA\bin\Debug\net7.0\PA.exe
+C:\Users\Gustavo Ferreira\Desktop\PA\bin\Debug\net7.0\PA.deps.json
+C:\Users\Gustavo Ferreira\Desktop\PA\bin\Debug\net7.0\PA.runtimeconfig.json
+C:\Users\Gustavo Ferreira\Desktop\PA\bin\Debug\net7.0\PA.dll
+C:\Users\Gustavo Ferreira\Desktop\PA\bin\Debug\net7.0\PA.pdb
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.dll
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\refint\PA.dll
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.pdb
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\PA.genruntimeconfig.cache
+C:\Users\Gustavo Ferreira\Desktop\PA\obj\Debug\net7.0\ref\PA.dll
